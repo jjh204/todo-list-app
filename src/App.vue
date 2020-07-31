@@ -4,10 +4,14 @@
 
     <div class="navbar">
       <md-toolbar md-elevation="1">
-        <a class="md-title" style="flex: 1" href="/">
+        <a class="md-title" style="flex: 1" href="https://jjh204.github.io/todo-list-app/">
           <img src="./assets/hobbs_logo.jpg" class="navbar-img" alt="Logo stating Jennifer Hobbs" />
         </a>
-        <a href="/" role="menuitem" class="navigation-list_item">Refresh</a>
+        <a
+          href="https://jjh204.github.io/todo-list-app/"
+          role="menuitem"
+          class="navigation-list_item"
+        >Refresh</a>
         <a
           href="https://jjh204.github.io/portfolio-website"
           target="_blank"
