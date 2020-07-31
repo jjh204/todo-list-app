@@ -1,3 +1,5 @@
 module.exports = {
-  publicPath: 'https://jjh204.github.io/todo-list-app/'
+  publicPath: process.env.NODE_ENV === 'production'
+    ? '/todo-list-app/'
+    : '/'
 }
