@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/todo-list-app/'
+  publicPath: 'https://jjh204.github.io/todo-list-app/'
 }
